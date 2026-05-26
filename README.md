@@ -62,3 +62,5 @@ full report + presentation
 
 ## Visuals
 <img width="1404" height="893" alt="Screenshot 2026-05-26 171205" src="https://github.com/user-attachments/assets/bb58653a-1060-4d3f-b42c-33a1a4190457" />
+<img width="1556" height="600" alt="Screenshot 2026-05-26 171146" src="https://github.com/user-attachments/assets/b21c45f4-1f67-4fd4-9076-51b653f5dd96" />
+
